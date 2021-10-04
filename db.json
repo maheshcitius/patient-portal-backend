@@ -1,0 +1,297 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "patient",
+      "lastName": "1",
+      "emailId": "abc@yopmail.com",
+      "password": "@citius123",
+      "dateOfBirth": "01/01/1994",
+      "userName": "101011993abc",
+      "role": "patient",
+      "createdBy": "",
+      "createdOn": "",
+      "updatedBy": "",
+      "updatedOn": "",
+      "isActive": true,
+      "token": ""
+    },
+    {
+      "id": "111",
+      "firstName": "Admin",
+      "lastName": "batch3",
+      "emailId": "admin@yopmail.com",
+      "password": "@citius123",
+      "dateOfBirth": "01/01/1994",
+      "userName": "citiustech",
+      "role": "admin",
+      "createdBy": "",
+      "createdOn": "",
+      "updatedBy": "",
+      "updatedOn": "",
+      "isActive": true,
+      "token": ""
+    },
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$O0UvYkRhu0KLB2Ofb/P0QupP4HQE/.ASYjl99MgQ/Ad.IA..lOVKO",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": "C8xLCap"
+    }
+  ],
+  "demographics": [
+    {
+      "patientId": "C8xLCap",
+      "gender": "male",
+      "ethnicity": "US",
+      "occupation": "sales executive",
+      "address": "Hyderabad/Sec",
+      "madicalHistory": "xxxxxxx",
+      "familyMedicalHistory": "xxxxxxxxxxx",
+      "surgeries": "no",
+      "insuranceProvideer": "icici prudential",
+      "createdBy": "C8xLCap",
+      "createdOn": "11-09-2021",
+      "updatedBy": "C8xLCap",
+      "updatedOn": "02-10-2021",
+      "isActive": true,
+      "id": "4rk-vqU"
+    }
+  ],
+  "medicationAllergies": [
+    {
+      "id": "1",
+      "medications": [
+        {
+          "drugName": "aaa",
+          "drugStrength": "100mg",
+          "directions": "1/day",
+          "prescribeBy": "doct1",
+          "type": "current"
+        },
+        {
+          "drugName": "abc",
+          "drugStrength": "100mg",
+          "directions": "1/day",
+          "prescribeBy": "doct1",
+          "type": "OTC"
+        },
+        {
+          "drugName": "aef",
+          "drugStrength": "100mg",
+          "directions": "1/day",
+          "prescribeBy": "doct1",
+          "type": "PP"
+        }
+      ],
+      "HVMA": "",
+      "socialDrugs": "xc",
+      "drugAllergies": "",
+      "createdBy": "",
+      "createdOn": "",
+      "updatedBy": "",
+      "updatedOn": "",
+      "isActive": true
+    }
+  ],
+  "immunization": [
+    {
+      "id": "1",
+      "patientID": "",
+      "vaccineName": "covishield",
+      "noOfDoses": "2",
+      "vaccinatedOn": "",
+      "createdBy": "",
+      "createdOn": "",
+      "updatedBy": "",
+      "updatedOn": "",
+      "isActive": true
+    },
+    {
+      "patientID": "C8xLCap",
+      "vaccineName": "covishield",
+      "noOfDoses": "2",
+      "vaccinatedOn": "02-10-2021",
+      "createdBy": "",
+      "createdOn": "",
+      "updatedBy": "",
+      "updatedOn": "",
+      "isActive": true,
+      "id": "EPEpuOW"
+    },
+    {
+      "patientID": "C8xLCap",
+      "vaccineName": "covaccine",
+      "noOfDoses": "1",
+      "vaccinatedOn": "02-10-2021",
+      "createdBy": "",
+      "createdOn": "",
+      "updatedBy": "",
+      "updatedOn": "",
+      "isActive": true,
+      "id": "2VDJRI6"
+    }
+  ],
+  "appoitments": [
+    {
+      "id": "1",
+      "title": "appointment1",
+      "physicianName": "",
+      "physicianId": "1",
+      "scheduleDate": "01-02-2021",
+      "scheduleTime": "10:10 PM",
+      "reasoneForCancel": "",
+      "isCancelled": false,
+      "createdBy": "1",
+      "createdOn": "",
+      "updatedBy": "",
+      "updatedOn": "",
+      "isActive": true,
+      "isAttended": false,
+      "isConfirmed": false,
+      "visitType": "online",
+      "status": "scheduled",
+      "patientVitals": {
+        "bloodPressure": "80/120",
+        "pulse": "",
+        "temparature": "",
+        "respiration": "",
+        "height": "",
+        "weight": ""
+      },
+      "procedureCode": {},
+      "diagnosisCodes": {},
+      "reports": {},
+      "medications": [
+        {
+          "drugName": "aef",
+          "drugStrength": "100mg",
+          "directions": "1/day",
+          "prescribeBy": "doct1",
+          "type": "PP"
+        }
+      ]
+    }
+  ],
+  "billings": [],
+  "products": [
+    {
+      "ApplNo": "4",
+      "ProductNo": "4",
+      "Form": "SOLUTION/DROPS;OPHTHALMIC",
+      "Strength": "1%",
+      "ReferenceDrug": "0",
+      "DrugName": "PAREDRINE",
+      "ActiveIngredient": "HYDROXYAMPHETAMINE HYDROBROMIDE",
+      "ReferenceStandard": "0"
+    },
+    {
+      "ApplNo": "159",
+      "ProductNo": "1",
+      "Form": "TABLET;ORAL",
+      "Strength": "500MG",
+      "ReferenceDrug": "0",
+      "DrugName": "SULFAPYRIDINE",
+      "ActiveIngredient": "SULFAPYRIDINE",
+      "ReferenceStandard": "0"
+    },
+    {
+      "ApplNo": "552",
+      "ProductNo": "1",
+      "Form": "INJECTABLE;INJECTION",
+      "Strength": "20,000 UNITS/ML",
+      "ReferenceDrug": "0",
+      "DrugName": "LIQUAEMIN SODIUM",
+      "ActiveIngredient": "HEPARIN SODIUM",
+      "ReferenceStandard": "0"
+    },
+    {
+      "ApplNo": "552",
+      "ProductNo": "2",
+      "Form": "INJECTABLE;INJECTION",
+      "Strength": "40,000 UNITS/ML",
+      "ReferenceDrug": "0",
+      "DrugName": "LIQUAEMIN SODIUM",
+      "ActiveIngredient": "HEPARIN SODIUM",
+      "ReferenceStandard": "0"
+    },
+    {
+      "ApplNo": "552",
+      "ProductNo": "3",
+      "Form": "INJECTABLE;INJECTION",
+      "Strength": "5,000 UNITS/ML",
+      "ReferenceDrug": "0",
+      "DrugName": "LIQUAEMIN SODIUM",
+      "ActiveIngredient": "HEPARIN SODIUM",
+      "ReferenceStandard": "0"
+    },
+    {
+      "id": "444",
+      "ProductNo": "444",
+      "Form": "SOLUTION/DROPS;OPHTHALMICc",
+      "Strength": "111%",
+      "ReferenceDrug": "0",
+      "DrugName": "PAREDRINEE",
+      "ActiveIngredient": "HYDROXYAMPHETAMINE HYDROBROMIDEE",
+      "ReferenceStandard": "0"
+    },
+    {
+      "id": "445",
+      "ProductNo": "444",
+      "Form": "SOLUTION/DROPS;OPHTHALMICc",
+      "Strength": "111%",
+      "ReferenceDrug": "0",
+      "DrugName": "PAREDRINEE",
+      "ActiveIngredient": "HYDROXYAMPHETAMINE HYDROBROMIDEE",
+      "ReferenceStandard": "0"
+    },
+    {
+      "id": "446",
+      "ProductNo": "444",
+      "Form": "SOLUTION/DROPS;OPHTHALMICc",
+      "Strength": "111%",
+      "ReferenceDrug": "0",
+      "DrugName": "PAREDRINEE",
+      "ActiveIngredient": "HYDROXYAMPHETAMINE HYDROBROMIDEE",
+      "ReferenceStandard": "0"
+    },
+    {
+      "id": "447",
+      "ProductNo": "444",
+      "Form": "SOLUTION/DROPS;OPHTHALMICc",
+      "Strength": "111%",
+      "ReferenceDrug": "0",
+      "DrugName": "PAREDRINEE",
+      "ActiveIngredient": "HYDROXYAMPHETAMINE HYDROBROMIDEE",
+      "ReferenceStandard": "0"
+    }
+  ],
+  "allergies": [
+    {
+      "id": "Bos d 2.0101",
+      "AllergyType": "Animal",
+      "AllergyName": "Bovine",
+      "AllergenSource": "Bos taurus",
+      "Isoforms_or_partial_sequences_of_allergen": "Bos Bos d 2",
+      "Allerginicity": "IgE but no biological test"
+    },
+    {
+      "id": "Bos d 3.0101",
+      "AllergyType": "Animal",
+      "AllergyName": "Bovine",
+      "AllergenSource": "Bos taurus",
+      "Isoforms_or_partial_sequences_of_allergen": "Bos Bos d 3",
+      "Allerginicity": "IgE but no biological test"
+    },
+    {
+      "id": "Can f 1.0101",
+      "AllergyType": "Animal",
+      "AllergyName": "Dog",
+      "AllergenSource": "Canis familiaris",
+      "Isoforms_or_partial_sequences_of_allergen": "Canis Can f 1 Lipocalin",
+      "Allerginicity": "IgE plus basophil+ or SPT+"
+    }
+  ]
+}
