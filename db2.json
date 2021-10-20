@@ -1,0 +1,463 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "firstName": "patient",
+        "lastName": "1",
+        "emailId": "abc@yopmail.com",
+        "password": "@citius123",
+        "dateOfBirth": "01/01/1994",
+        "userName": "101011993abc",
+        "role": "patient",
+        "createdBy": "",
+        "createdOn": "",
+        "updatedBy": "",
+        "updatedOn": "",
+        "isActive": true,
+        "token": ""
+      },
+      {
+        "id": "111",
+        "firstName": "Admin",
+        "lastName": "batch3",
+        "emailId": "admin@yopmail.com",
+        "password": "@citius123",
+        "dateOfBirth": "01/01/1994",
+        "userName": "citiustech",
+        "role": "admin",
+        "createdBy": "",
+        "createdOn": "",
+        "updatedBy": "",
+        "updatedOn": "",
+        "isActive": true,
+        "token": ""
+      },
+      {
+        "email": "olivier@mail.com",
+        "password": "$2a$10$O0UvYkRhu0KLB2Ofb/P0QupP4HQE/.ASYjl99MgQ/Ad.IA..lOVKO",
+        "firstname": "Olivier",
+        "lastname": "Monge",
+        "age": 32,
+        "id": "C8xLCap",
+        "role": "admin"
+      },
+      {
+        "email": "mahesh@mail.com",
+        "password": "$2a$10$NslBCcSnEBla7ocR4zLOsuNW0aNZnfXDr8W1IlzlAJjo.4T4pe7w.",
+        "firstname": "mahesh",
+        "lastname": "netha",
+        "age": 32,
+        "role": "patient",
+        "id": "NQR3Vzq"
+      },
+      {
+        "email": "mahesh1@mail.com",
+        "password": "$2a$10$N6of4r6N7xwDxabP0KWW6OPTmKuls3Mk4NveuEY548ZvM4BQnr3wu",
+        "firstname": "mahesh",
+        "lastname": "netha",
+        "age": 32,
+        "role": "patient",
+        "id": "8IEPIZ1"
+      },
+      {
+        "email": "patient1@mail.com",
+        "password": "$2a$10$LaWRmQgiD7bVs.sirXbhNO3kHhycDpOj6Y.ztYITSxoYVR9LUPjvK",
+        "firstname": "patient1",
+        "lastname": "portal",
+        "age": 32,
+        "role": "patient",
+        "id": "BNDatDT"
+      },
+      {
+        "email": "patient2@mail.com",
+        "password": "$2a$10$t1RWGac1HWOpwWpJjhEn.OKQSK6MuMwSp6dIq7sdfoyRyfh73SjRC",
+        "firstname": "patient1",
+        "lastname": "portal",
+        "age": 32,
+        "role": "patient",
+        "id": "W1ILehH"
+      },
+      {
+        "email": "netha@gmail.com",
+        "password": "$2a$10$cAKurUeF5Dey9PTwr/33LupP/bIs/YLjb7.CV6BCrV/5AjuigEzO.",
+        "firstName": "maheshnetha",
+        "lastName": "netha",
+        "dateOfBirth": "2021-10-13",
+        "userName": "maheshnetha",
+        "role": "Physician",
+        "mobileNumber": "9642222061",
+        "createdOn": "03:25:55 12-10-2021",
+        "createdBy": "03:25:55 12-10-2021",
+        "id": "vD8TlFQ"
+      },
+      {
+        "email": "maheshnetha44@gmail.com",
+        "password": "$2a$10$a.5UsTBZV6rqL4IEsk4t4uysNp/WNKR3A9VABTvve/Tc1aq0QHvn2",
+        "firstName": "mahesh",
+        "lastName": "neths",
+        "dateOfBirth": "2021-10-04",
+        "userName": "asdfgh",
+        "role": "Physician",
+        "mobileNumber": "9876543213",
+        "createdOn": "03:30:41 12-10-2021",
+        "createdBy": "03:30:41 12-10-2021",
+        "id": "cJvPK2E"
+      },
+      {
+        "email": "physician1@mail.com",
+        "password": "$2a$10$UczGEGXREbn9mSFi5wcJWeCqD5gqa2bWlwo9e5d/fkM2x7lBtJJXS",
+        "firstName": "physician",
+        "lastName": "citiustech",
+        "dateOfBirth": "2021-09-01",
+        "userName": "physician1",
+        "role": "physician",
+        "mobileNumber": "9876543212",
+        "createdOn": "03:40:07 12-10-2021",
+        "createdBy": "03:40:07 12-10-2021",
+        "id": "HlT84mp"
+      },
+      {
+        "email": "physician2@mail.com",
+        "password": "$2a$10$VRq7sB8eoCaPNSwme78w7.yNwT83c4tFZ2tLgmuv7upaJ1MtJxJyO",
+        "firstname": "physician",
+        "lastname": "2",
+        "age": 35,
+        "role": "physician",
+        "id": "3elumbG"
+      },
+      {
+        "email": "patient3@yopmail.com",
+        "password": "$2a$10$SBqXnYbBzZJ53.hKoA.UbuD1XvqJYWraQpox8mAEpgt8sYzOBDscG",
+        "firstName": "patient",
+        "lastName": "patient3",
+        "dateOfBirth": "2021-10-06",
+        "userName": "patient3@yopmail.com",
+        "role": "patient",
+        "mobileNumber": "9876543210",
+        "createdOn": "05:25:30 12-10-2021",
+        "createdBy": "05:25:30 12-10-2021",
+        "id": "PoK8roU"
+      },
+      {
+        "email": "aa@a.com",
+        "password": "$2a$10$tcHLxQP5qnd/hVsKVlxnnONRdJ5DUhygCK6FR2UznUh5oLwJChrVK",
+        "firstName": "aaaaaaaaa",
+        "lastName": "bbbbbb",
+        "dateOfBirth": "2021-10-01",
+        "mobileNumber": "9876543213",
+        "createdOn": "01:06:49 13-10-2021",
+        "createdBy": "01:06:49 13-10-2021",
+        "id": "BS9-5Ve"
+      }
+    ],
+    "demographics": [
+      {
+        "patientId": "C8xLCap",
+        "gender": "male",
+        "ethnicity": "US",
+        "occupation": "sales executive",
+        "address": "Hyderabad/Sec",
+        "madicalHistory": "xxxxxxx",
+        "familyMedicalHistory": "xxxxxxxxxxx",
+        "surgeries": "no",
+        "insuranceProvideer": "icici prudential",
+        "createdBy": "C8xLCap",
+        "createdOn": "11-09-2021",
+        "updatedBy": "C8xLCap",
+        "updatedOn": "02-10-2021",
+        "isActive": true,
+        "id": "4rk-vqU"
+      }
+    ],
+    "medicationAllergies": [
+      {
+        "id": "1",
+        "medications": [
+          {
+            "drugName": "aaa",
+            "drugStrength": "100mg",
+            "directions": "1/day",
+            "prescribeBy": "doct1",
+            "type": "current"
+          },
+          {
+            "drugName": "abc",
+            "drugStrength": "100mg",
+            "directions": "1/day",
+            "prescribeBy": "doct1",
+            "type": "OTC"
+          },
+          {
+            "drugName": "aef",
+            "drugStrength": "100mg",
+            "directions": "1/day",
+            "prescribeBy": "doct1",
+            "type": "PP"
+          }
+        ],
+        "HVMA": "",
+        "socialDrugs": "xc",
+        "drugAllergies": "",
+        "createdBy": "",
+        "createdOn": "",
+        "updatedBy": "",
+        "updatedOn": "",
+        "isActive": true
+      }
+    ],
+    "immunization": [
+      {
+        "id": "1",
+        "patientID": "",
+        "vaccineName": "covishield",
+        "noOfDoses": "2",
+        "vaccinatedOn": "",
+        "createdBy": "",
+        "createdOn": "",
+        "updatedBy": "",
+        "updatedOn": "",
+        "isActive": true
+      },
+      {
+        "patientID": "C8xLCap",
+        "vaccineName": "covishield",
+        "noOfDoses": "2",
+        "vaccinatedOn": "02-10-2021",
+        "createdBy": "",
+        "createdOn": "",
+        "updatedBy": "",
+        "updatedOn": "",
+        "isActive": true,
+        "id": "EPEpuOW"
+      },
+      {
+        "patientID": "C8xLCap",
+        "vaccineName": "covaccine",
+        "noOfDoses": "1",
+        "vaccinatedOn": "02-10-2021",
+        "createdBy": "",
+        "createdOn": "",
+        "updatedBy": "",
+        "updatedOn": "",
+        "isActive": true,
+        "id": "2VDJRI6"
+      }
+    ],
+    "appoitments": [
+      {
+        "id": "1",
+        "title": "appointment1",
+        "physicianName": "",
+        "physicianId": "1",
+        "scheduleDate": "01-02-2021",
+        "scheduleTime": "10:10 PM",
+        "reasoneForCancel": "",
+        "isCancelled": false,
+        "createdBy": "1",
+        "createdOn": "",
+        "updatedBy": "",
+        "updatedOn": "",
+        "isActive": true,
+        "isAttended": false,
+        "isConfirmed": false,
+        "visitType": "online",
+        "status": "scheduled",
+        "procedureCode": {},
+        "diagnosisCodes": {},
+        "reports": {}
+      },
+      {
+        "id": "2",
+        "title": "appointment1",
+        "physicianName": "",
+        "physicianId": "1",
+        "scheduleDate": "01-02-2021",
+        "scheduleTime": "10:10 PM",
+        "reasoneForCancel": "",
+        "isCancelled": false,
+        "createdBy": "1",
+        "createdOn": "",
+        "updatedBy": "",
+        "updatedOn": "",
+        "isActive": true,
+        "isAttended": false,
+        "isConfirmed": false,
+        "visitType": "online",
+        "status": "scheduled",
+        "procedureCode": {},
+        "diagnosisCodes": {},
+        "reports": {}
+      }
+    ],
+    "billings": [],
+    "patientEducation": [
+      {
+        "title": "Diet Plan Sheet",
+        "typeOfDoc": "pdf",
+        "resourceLink": "",
+        "description": "Please follow the plan accordingly",
+        "createdAt": 1634618502379,
+        "appoitmentId": "2",
+        "id": 1
+      }
+    ],
+    "patientVitals": [
+      {
+        "bloodPressure": "80/120",
+        "pulse": "56",
+        "temparature": "96",
+        "respiration": "45",
+        "height": "165",
+        "weight": "76",
+        "id": "1",
+        "appoitmentId": "2"
+      }
+    ],
+    "medications": [
+      {
+        "id": "1",
+        "appoitmentId": "2",
+        "drugName": "aef",
+        "drugStrength": "100mg",
+        "directions": "1/day",
+        "prescribeBy": "doct1",
+        "type": "PP"
+      },
+      {
+        "id": "2",
+        "drugName": "aef",
+        "drugStrength": "100mg",
+        "directions": "1/day",
+        "prescribeBy": "doct1",
+        "type": "PP",
+        "appoitmentId": "2"
+      },
+      {
+        "drugName": "aefss",
+        "drugStrength": "500mg",
+        "directions": "1/day",
+        "prescribeBy": "doct1",
+        "type": "PP",
+        "updatedAt": 1634617694555,
+        "id": "po1ZpVw"
+      }
+    ],
+    "products": [
+      {
+        "ApplNo": "4",
+        "ProductNo": "4",
+        "Form": "SOLUTION/DROPS;OPHTHALMIC",
+        "Strength": "1%",
+        "ReferenceDrug": "0",
+        "DrugName": "PAREDRINE",
+        "ActiveIngredient": "HYDROXYAMPHETAMINE HYDROBROMIDE",
+        "ReferenceStandard": "0"
+      },
+      {
+        "ApplNo": "159",
+        "ProductNo": "1",
+        "Form": "TABLET;ORAL",
+        "Strength": "500MG",
+        "ReferenceDrug": "0",
+        "DrugName": "SULFAPYRIDINE",
+        "ActiveIngredient": "SULFAPYRIDINE",
+        "ReferenceStandard": "0"
+      },
+      {
+        "ApplNo": "552",
+        "ProductNo": "1",
+        "Form": "INJECTABLE;INJECTION",
+        "Strength": "20,000 UNITS/ML",
+        "ReferenceDrug": "0",
+        "DrugName": "LIQUAEMIN SODIUM",
+        "ActiveIngredient": "HEPARIN SODIUM",
+        "ReferenceStandard": "0"
+      },
+      {
+        "ApplNo": "552",
+        "ProductNo": "2",
+        "Form": "INJECTABLE;INJECTION",
+        "Strength": "40,000 UNITS/ML",
+        "ReferenceDrug": "0",
+        "DrugName": "LIQUAEMIN SODIUM",
+        "ActiveIngredient": "HEPARIN SODIUM",
+        "ReferenceStandard": "0"
+      },
+      {
+        "ApplNo": "552",
+        "ProductNo": "3",
+        "Form": "INJECTABLE;INJECTION",
+        "Strength": "5,000 UNITS/ML",
+        "ReferenceDrug": "0",
+        "DrugName": "LIQUAEMIN SODIUM",
+        "ActiveIngredient": "HEPARIN SODIUM",
+        "ReferenceStandard": "0"
+      },
+      {
+        "id": "444",
+        "ProductNo": "444",
+        "Form": "SOLUTION/DROPS;OPHTHALMICc",
+        "Strength": "111%",
+        "ReferenceDrug": "0",
+        "DrugName": "PAREDRINEE",
+        "ActiveIngredient": "HYDROXYAMPHETAMINE HYDROBROMIDEE",
+        "ReferenceStandard": "0"
+      },
+      {
+        "id": "445",
+        "ProductNo": "444",
+        "Form": "SOLUTION/DROPS;OPHTHALMICc",
+        "Strength": "111%",
+        "ReferenceDrug": "0",
+        "DrugName": "PAREDRINEE",
+        "ActiveIngredient": "HYDROXYAMPHETAMINE HYDROBROMIDEE",
+        "ReferenceStandard": "0"
+      },
+      {
+        "id": "446",
+        "ProductNo": "444",
+        "Form": "SOLUTION/DROPS;OPHTHALMICc",
+        "Strength": "111%",
+        "ReferenceDrug": "0",
+        "DrugName": "PAREDRINEE",
+        "ActiveIngredient": "HYDROXYAMPHETAMINE HYDROBROMIDEE",
+        "ReferenceStandard": "0"
+      },
+      {
+        "id": "447",
+        "ProductNo": "444",
+        "Form": "SOLUTION/DROPS;OPHTHALMICc",
+        "Strength": "111%",
+        "ReferenceDrug": "0",
+        "DrugName": "PAREDRINEE",
+        "ActiveIngredient": "HYDROXYAMPHETAMINE HYDROBROMIDEE",
+        "ReferenceStandard": "0"
+      }
+    ],
+    "allergies": [
+      {
+        "id": "Bos d 2.0101",
+        "AllergyType": "Animal",
+        "AllergyName": "Bovine",
+        "AllergenSource": "Bos taurus",
+        "Isoforms_or_partial_sequences_of_allergen": "Bos Bos d 2",
+        "Allerginicity": "IgE but no biological test"
+      },
+      {
+        "id": "Bos d 3.0101",
+        "AllergyType": "Animal",
+        "AllergyName": "Bovine",
+        "AllergenSource": "Bos taurus",
+        "Isoforms_or_partial_sequences_of_allergen": "Bos Bos d 3",
+        "Allerginicity": "IgE but no biological test"
+      },
+      {
+        "id": "Can f 1.0101",
+        "AllergyType": "Animal",
+        "AllergyName": "Dog",
+        "AllergenSource": "Canis familiaris",
+        "Isoforms_or_partial_sequences_of_allergen": "Canis Can f 1 Lipocalin",
+        "Allerginicity": "IgE plus basophil+ or SPT+"
+      }
+    ]
+  }

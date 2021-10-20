@@ -38,7 +38,144 @@
       "firstname": "Olivier",
       "lastname": "Monge",
       "age": 32,
-      "id": "C8xLCap"
+      "id": "C8xLCap",
+      "role": "admin"
+    },
+    {
+      "email": "mahesh@mail.com",
+      "password": "$2a$10$NslBCcSnEBla7ocR4zLOsuNW0aNZnfXDr8W1IlzlAJjo.4T4pe7w.",
+      "firstname": "mahesh",
+      "lastname": "netha",
+      "age": 32,
+      "role": "patient",
+      "id": "NQR3Vzq"
+    },
+    {
+      "email": "mahesh1@mail.com",
+      "password": "$2a$10$N6of4r6N7xwDxabP0KWW6OPTmKuls3Mk4NveuEY548ZvM4BQnr3wu",
+      "firstname": "mahesh",
+      "lastname": "netha",
+      "age": 32,
+      "role": "patient",
+      "id": "8IEPIZ1"
+    },
+    {
+      "email": "patient1@mail.com",
+      "password": "$2a$10$LaWRmQgiD7bVs.sirXbhNO3kHhycDpOj6Y.ztYITSxoYVR9LUPjvK",
+      "firstname": "patient1",
+      "lastname": "portal",
+      "age": 32,
+      "role": "patient",
+      "id": "BNDatDT"
+    },
+    {
+      "email": "patient2@mail.com",
+      "password": "$2a$10$t1RWGac1HWOpwWpJjhEn.OKQSK6MuMwSp6dIq7sdfoyRyfh73SjRC",
+      "firstname": "patient1",
+      "lastname": "portal",
+      "age": 32,
+      "role": "patient",
+      "id": "W1ILehH"
+    },
+    {
+      "email": "netha@gmail.com",
+      "password": "$2a$10$cAKurUeF5Dey9PTwr/33LupP/bIs/YLjb7.CV6BCrV/5AjuigEzO.",
+      "firstName": "maheshnetha",
+      "lastName": "netha",
+      "dateOfBirth": "2021-10-13",
+      "userName": "maheshnetha",
+      "role": "Physician",
+      "mobileNumber": "9642222061",
+      "createdOn": "03:25:55 12-10-2021",
+      "createdBy": "03:25:55 12-10-2021",
+      "id": "vD8TlFQ"
+    },
+    {
+      "email": "maheshnetha44@gmail.com",
+      "password": "$2a$10$a.5UsTBZV6rqL4IEsk4t4uysNp/WNKR3A9VABTvve/Tc1aq0QHvn2",
+      "firstName": "mahesh",
+      "lastName": "neths",
+      "dateOfBirth": "2021-10-04",
+      "userName": "asdfgh",
+      "role": "Physician",
+      "mobileNumber": "9876543213",
+      "createdOn": "03:30:41 12-10-2021",
+      "createdBy": "03:30:41 12-10-2021",
+      "id": "cJvPK2E"
+    },
+    {
+      "email": "physician1@mail.com",
+      "password": "$2a$10$UczGEGXREbn9mSFi5wcJWeCqD5gqa2bWlwo9e5d/fkM2x7lBtJJXS",
+      "firstName": "physician",
+      "lastName": "citiustech",
+      "dateOfBirth": "2021-09-01",
+      "userName": "physician1",
+      "role": "physician",
+      "mobileNumber": "9876543212",
+      "createdOn": "03:40:07 12-10-2021",
+      "createdBy": "03:40:07 12-10-2021",
+      "id": "HlT84mp"
+    },
+    {
+      "email": "physician2@mail.com",
+      "password": "$2a$10$VRq7sB8eoCaPNSwme78w7.yNwT83c4tFZ2tLgmuv7upaJ1MtJxJyO",
+      "firstname": "physician",
+      "lastname": "2",
+      "age": 35,
+      "role": "physician",
+      "id": "3elumbG"
+    },
+    {
+      "email": "patient3@yopmail.com",
+      "password": "$2a$10$SBqXnYbBzZJ53.hKoA.UbuD1XvqJYWraQpox8mAEpgt8sYzOBDscG",
+      "firstName": "patient",
+      "lastName": "patient3",
+      "dateOfBirth": "2021-10-06",
+      "userName": "patient3@yopmail.com",
+      "role": "patient",
+      "mobileNumber": "9876543210",
+      "createdOn": "05:25:30 12-10-2021",
+      "createdBy": "05:25:30 12-10-2021",
+      "id": "PoK8roU"
+    },
+    {
+      "email": "aa@a.com",
+      "password": "$2a$10$tcHLxQP5qnd/hVsKVlxnnONRdJ5DUhygCK6FR2UznUh5oLwJChrVK",
+      "firstName": "aaaaaaaaa",
+      "lastName": "bbbbbb",
+      "dateOfBirth": "2021-10-01",
+      "mobileNumber": "9876543213",
+      "createdOn": "01:06:49 13-10-2021",
+      "createdBy": "01:06:49 13-10-2021",
+      "id": "BS9-5Ve"
+    },
+    {
+      "email": "patient3@mail.com",
+      "password": "$2a$10$UNIqyyHup1.9pUXn.wY87.zMeYkMj4BfoqaH/.Vs1mzdhtmtrQ3L2",
+      "firstname": "patient3",
+      "lastname": "portal",
+      "age": 32,
+      "role": "patient",
+      "dateOfBirth": "01/01/1994",
+      "mobileNumber": "9876543213",
+      "id": "WBjRW2x"
+    },
+    {
+      "email": "maheshnetha444@gmail.com",
+      "password": "$2a$10$jG2HWM6DPuNwVxDQBpK2h.tvw.FfdO/.1pHtEvFPZpB.yNiBqTCte",
+      "firstName": "mahesh",
+      "lastName": "netha",
+      "dateOfBirth": "2021-10-01",
+      "role": "patient",
+      "mobileNumber": "9642222061",
+      "createdOn": "07:38:28 19-10-2021",
+      "createdBy": "07:38:28 19-10-2021",
+      "id": "Vqfu4nR"
+    }
+  ],
+  "physicianDetails":[
+    {
+      
     }
   ],
   "demographics": [
@@ -134,7 +271,7 @@
       "id": "2VDJRI6"
     }
   ],
-  "appoitments": [
+  "appointments": [
     {
       "id": "1",
       "title": "appointment1",
@@ -153,33 +290,140 @@
       "isConfirmed": false,
       "visitType": "online",
       "status": "scheduled",
-      "patientVitals": {
-        "bloodPressure": "80/120",
-        "pulse": "",
-        "temparature": "",
-        "respiration": "",
-        "height": "",
-        "weight": ""
-      },
+      "procedureCode": {},
+      "diagnosisCodes": {},
+      "reports": {}
+    },
+    {
+      "id": "2",
+      "title": "appointment1",
+      "physicianName": "",
+      "physicianId": "1",
+      "scheduleDate": "01-02-2021",
+      "scheduleTime": "10:10 PM",
+      "reasoneForCancel": "",
+      "isCancelled": false,
+      "createdBy": "1",
+      "createdOn": "",
+      "updatedBy": "",
+      "updatedOn": "",
+      "isActive": true,
+      "isAttended": false,
+      "isConfirmed": false,
+      "visitType": "online",
+      "status": "scheduled",
+      "procedureCode": {},
+      "diagnosisCodes": {},
+      "reports": {}
+    },
+    {
+      "title": "appointment1",
+      "patientId": "WBjRW2x",
+      "physicianName": "",
+      "physicianId": "1",
+      "scheduleDate": "01-02-2021",
+      "scheduleTime": "10:10 PM",
+      "reasoneForCancel": "",
+      "isCancelled": false,
+      "isActive": true,
+      "isAttended": false,
+      "isConfirmed": false,
+      "visitType": "online",
+      "status": "scheduled",
       "procedureCode": {},
       "diagnosisCodes": {},
       "reports": {},
-      "medications": [
-        {
-          "drugName": "aef",
-          "drugStrength": "100mg",
-          "directions": "1/day",
-          "prescribeBy": "doct1",
-          "type": "PP"
-        }
-      ]
+      "createdAt": 1634624437021,
+      "id": "BvrZT1m"
     }
   ],
   "billings": [],
+  "patientEducation": [
+    {
+      "title": "Diet Plan Sheet",
+      "typeOfDoc": "pdf",
+      "resourceLink": "",
+      "description": "Please follow the plan accordingly",
+      "createdAt": 1634618502379,
+      "appointmentId": "2",
+      "id": 1
+    },
+    {
+      "title": "Diet Plan Sheet",
+      "typeOfDoc": "pdf",
+      "resourceLink": "",
+      "description": "Please follow the plan accordingly",
+      "createdAt": 1634624791885,
+      "appointmentId": "BvrZT1m",
+      "id": 2
+    }
+  ],
+  "patientVitals": [
+    {
+      "bloodPressure": "80/120",
+      "pulse": "56",
+      "temparature": "96",
+      "respiration": "45",
+      "height": "165",
+      "weight": "76",
+      "id": "1",
+      "appointmentId": "2"
+    },
+    {
+      "bloodPressure": "80/120",
+      "pulse": "56",
+      "temparature": "96",
+      "respiration": "45",
+      "height": "165",
+      "weight": "76",
+      "createdAt": 1634624585045,
+      "appointmentId": "BvrZT1m",
+      "id": "SX7qax2"
+    }
+  ],
+  "medications": [
+    {
+      "id": "1",
+      "appointmentId": "2",
+      "drugName": "aef",
+      "drugStrength": "100mg",
+      "directions": "1/day",
+      "prescribeBy": "doct1",
+      "type": "PP"
+    },
+    {
+      "id": "2",
+      "drugName": "aef",
+      "drugStrength": "100mg",
+      "directions": "1/day",
+      "prescribeBy": "doct1",
+      "type": "PP",
+      "appointmentId": "2"
+    },
+    {
+      "drugName": "aefss",
+      "drugStrength": "500mg",
+      "directions": "1/day",
+      "prescribeBy": "doct1",
+      "type": "PP",
+      "updatedAt": 1634617694555,
+      "id": "po1ZpVw"
+    },
+    {
+      "drugName": "aefss",
+      "drugStrength": "500mg",
+      "directions": "1/day",
+      "prescribeBy": "doct1",
+      "type": "PP",
+      "createdAt": 1634624695170,
+      "appointmentId": "BvrZT1m",
+      "id": "IEK1wTd"
+    }
+  ],
   "products": [
     {
       "ApplNo": "4",
-      "ProductNo": "4",
+      "id": "4",
       "Form": "SOLUTION/DROPS;OPHTHALMIC",
       "Strength": "1%",
       "ReferenceDrug": "0",
@@ -189,7 +433,7 @@
     },
     {
       "ApplNo": "159",
-      "ProductNo": "1",
+      "id": "1",
       "Form": "TABLET;ORAL",
       "Strength": "500MG",
       "ReferenceDrug": "0",
@@ -199,7 +443,7 @@
     },
     {
       "ApplNo": "552",
-      "ProductNo": "1",
+      "id": "1",
       "Form": "INJECTABLE;INJECTION",
       "Strength": "20,000 UNITS/ML",
       "ReferenceDrug": "0",
@@ -209,7 +453,7 @@
     },
     {
       "ApplNo": "552",
-      "ProductNo": "2",
+      "id": "2",
       "Form": "INJECTABLE;INJECTION",
       "Strength": "40,000 UNITS/ML",
       "ReferenceDrug": "0",
@@ -219,52 +463,12 @@
     },
     {
       "ApplNo": "552",
-      "ProductNo": "3",
+      "id": "3",
       "Form": "INJECTABLE;INJECTION",
       "Strength": "5,000 UNITS/ML",
       "ReferenceDrug": "0",
       "DrugName": "LIQUAEMIN SODIUM",
       "ActiveIngredient": "HEPARIN SODIUM",
-      "ReferenceStandard": "0"
-    },
-    {
-      "id": "444",
-      "ProductNo": "444",
-      "Form": "SOLUTION/DROPS;OPHTHALMICc",
-      "Strength": "111%",
-      "ReferenceDrug": "0",
-      "DrugName": "PAREDRINEE",
-      "ActiveIngredient": "HYDROXYAMPHETAMINE HYDROBROMIDEE",
-      "ReferenceStandard": "0"
-    },
-    {
-      "id": "445",
-      "ProductNo": "444",
-      "Form": "SOLUTION/DROPS;OPHTHALMICc",
-      "Strength": "111%",
-      "ReferenceDrug": "0",
-      "DrugName": "PAREDRINEE",
-      "ActiveIngredient": "HYDROXYAMPHETAMINE HYDROBROMIDEE",
-      "ReferenceStandard": "0"
-    },
-    {
-      "id": "446",
-      "ProductNo": "444",
-      "Form": "SOLUTION/DROPS;OPHTHALMICc",
-      "Strength": "111%",
-      "ReferenceDrug": "0",
-      "DrugName": "PAREDRINEE",
-      "ActiveIngredient": "HYDROXYAMPHETAMINE HYDROBROMIDEE",
-      "ReferenceStandard": "0"
-    },
-    {
-      "id": "447",
-      "ProductNo": "444",
-      "Form": "SOLUTION/DROPS;OPHTHALMICc",
-      "Strength": "111%",
-      "ReferenceDrug": "0",
-      "DrugName": "PAREDRINEE",
-      "ActiveIngredient": "HYDROXYAMPHETAMINE HYDROBROMIDEE",
       "ReferenceStandard": "0"
     }
   ],

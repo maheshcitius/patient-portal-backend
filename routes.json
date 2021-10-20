@@ -1,4 +1,6 @@
 {
-    "demographics": 660,
-    "products":664
-}
+    "/api/*": "/$1",
+    "/appoitments/:id/medications/*": "/$1"
+    
+
+  }
